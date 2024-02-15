@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SampleTest::testTrueAsssertsToTrue":7,"UserTest::testThatWeCanGetTheFirstName":7,"UserTest::testThatWeCanGetTheLastName":7,"UserTest::testFullName":8},"times":{"SampleTest::testTrueAsssertsToTrue":0.004,"UserTest::testThatWeCanGetTheFirstName":0.001,"UserTest::testThatWeCanGetTheLastName":0,"UserTest::testFullName":0}}
